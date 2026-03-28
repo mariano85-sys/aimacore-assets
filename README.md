@@ -1,0 +1,1 @@
+# aimacore-assets
